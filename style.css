@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zero{
+
+  padding: 10px;
+  width: 38%;
+  border: 1px solid lightgray;
+  box-shadow: 3px 3px 3px 3px rgb(204, 203, 203);
+  margin-left:500px;
+  margin-top: 100px;
+  position: absolute;
+  background-color: white;
+  border-radius: 10px;
+}
+  
+
+#ten{
+    padding: 25px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+#eleven{
+    padding: 25px;
+    width: 100%;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+
+.leftside{
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 40px;
+
+}
+
+.leftside h1{
+    font-size: 50px;
+    color: rgb(0, 140, 255); 
+}
+
+.leftside p{
+    font-weight: 600;
+    color: rgb(63, 61, 61);
+    margin-top: 10px;
+  
+}
+
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+.log {
+    background-color:rgb(0, 140, 255) ;
+    padding: 12px;
+    border-radius: 10px;
+}
+  
+
+.log a{
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 150px;
+}
+
+.log a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.forgot{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+#btn{
+    padding: 12px;
+    width: 60%;
+    background-color: rgb(57, 199, 44);
+    border-color: rgb(57, 199, 44) ;
+    font-weight: bold;
+}
+
+
+#btn:hover{
+    background-color: green;
+}
+
+
+  
+  
+    .old{
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        font-size:25px;
+        text-align: center;
+        
+        
+        
+        
+        
+    }
+  
+  
+    .child{
+        font-family: Arial;
+        text-align: center;
+        font-size: 15px;
+        color: lightslategray;
+    }
+  
+    .call{
+        border: 2px solid lightgray;
+        padding: 10px;
+        width: 156px;
+        }
+  
+  
+
+  
+  
+  
+  
+  .Days{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width: 30%;
+  
+  }
+  
+  .Months{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width: 30%;
+  
+  }
+  
+  .Years{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width: 30%;
+  }
+  
+  
+  .gender{
+      color: lightslategrey;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: small;
+  }
+  
+  
+  .birth{
+      color: lightslategrey;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: small;
+  
+  }
+  
+  .female{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width:30%;}
+  
+  
+  .male{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width: 30%;
+  
+  }
+  
+  
+  .custom{
+      border: 2px solid lightgray;
+      padding: 8px;
+      width: 30%;
+      
+  }
+  
+  
+  
+  .space{
+      font-family: arial;
+      color: black;
+      font-size: x-small;
+  
+  }
+  
+  
+  
+  .account{
+      
+      text-align: center;
+      color: rgba(0, 0, 255, 0.5);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+  }
+  
+  
+  .kk{
+      color: rgb(0, 0, 255);
+  
+  }
+  
+  
+
+  
+  
+  .body{
+      background-color: lightgray;
+  }
+  
+
+
+
+
+
+
